@@ -1,2 +1,0 @@
-# primer-cvu
-primer cvu
